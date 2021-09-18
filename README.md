@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou aprendendo:  Sql Server, Java, Html/CSS e java script.
 
-<h4>Sou nova por aqui e ainda falta muita coisa para adcionar no git hub, mas com o tempo vou melhorar ele 😉.</h4>
+<h4>Sou nova por aqui e ainda falta muita coisa para adicionar no git hub, mas com o tempo vou melhorar ele 😉.</h4>
 
 
 >
